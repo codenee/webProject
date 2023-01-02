@@ -12,7 +12,7 @@ const webProject = {
         backEnd: {
             java: ["Spring MVC", "jsp"],
         },
-        frontEnd: ["bootstrap"]
+        frontEnd: ["bootstrap"],
         was:["tomcat"],
         library:["jQuery", "JSON"],
         api:["google map", "jdbc"],
