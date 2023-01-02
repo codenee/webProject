@@ -1,7 +1,7 @@
 # webProject
 
 <h4>This is Codenee's web site creation project!</h4>
-<h4>This is a repository where only Java code is uploaded, excluding resources.</h4>
+I created a service site using SpringMVC-based Google map API and uploaded only Java code excluding resources.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About webProject
 
@@ -10,15 +10,16 @@ const webProject = {
     code: ["Java", "Javascript"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            java: ["Spring MVC", "jsp"],
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        frontEnd: ["bootstrap"]
+        was:["tomcat"],
+        library:["jQuery", "JSON"],
+        api:["google map", "jdbc"],
         databases: ["MySql"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+
+
 
